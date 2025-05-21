@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355211792036",
+    "project_id": "alarm-service-59753",
+    "storage_bucket": "alarm-service-59753.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355211792036:android:a375229fedea4a71bd2031",
+        "android_client_info": {
+          "package_name": "com.notice5411.dumv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohlVMhTKGRTdFwmm37ob1RUwt-9VXW7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
